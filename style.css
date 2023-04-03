@@ -778,7 +778,7 @@ hr {
 
 /* - Wrapper */
 .wrapper {
-  padding-top: 90px;
+  padding-top: 100px;
 }
 
 .container-page {
@@ -1165,7 +1165,7 @@ button.mfp-close:before {
 }
 
 .kf-navbar {
-  padding: 20px 30px;
+  padding: 10px 30px;
   position: relative;
   top: 0;
   left: 0;
@@ -1196,7 +1196,7 @@ button.mfp-close:before {
 .kf-logo img {
   max-width: 100%;
   width: auto;
-  max-height: 40px;
+  max-height: 80px;
 }
 
 .kf-search {
